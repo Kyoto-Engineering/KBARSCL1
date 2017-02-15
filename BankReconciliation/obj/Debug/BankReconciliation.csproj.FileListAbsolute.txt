@@ -1,0 +1,657 @@
+c:\users\kyoto\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+c:\users\kyoto\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+c:\users\kyoto\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+c:\users\kyoto\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+c:\users\kyoto\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+c:\users\kyoto\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+c:\users\kyoto\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+c:\users\kyoto\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+c:\users\kyoto\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+c:\users\kyoto\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Writecheque.resources
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeWriter.resources
+C:\Users\KYOTO\OneDrive\Documents\Visual Studio 2013\Projects\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.NewBankAccountInfoEntry.resources
+E:\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+E:\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+E:\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+E:\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+E:\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+E:\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Users\Kyoto-PC6\OneDrive\Documents\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+G:\Project 28-04-2016\Update Bank Reconciliation Software 01-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+C:\Users\KYOTO\Desktop\Last Update Bank Reconciliation\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+G:\ProjectUpdate 23-06-2016\LiveBR\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\LifeBR Today-09-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\LiveBR Today-10-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (10)\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Particulers.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Benificiary.resources
+C:\Users\KYOTO\Desktop\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ChequePrint.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Benificiary.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ChequePrint.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Particulers.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+G:\ProjectUpdate 23-06-2016\Reconciliation final\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Benificiary.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ChequePrint.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Particulers.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\Reconciliation final-21-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Benificiary.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ChequePrint.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Particulers.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChangeStatusofCheque.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Cheque.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChequeCancel.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-22-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChequeDestroy.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Benificiary.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ChequePrint.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Particulers.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChangeStatusofCheque.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Cheque.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChequeCancel.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChequeDestroy.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+C:\Share\IT\Source Code\Reconciliation final-28-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Benificiary.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ChequePrint.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Particulers.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChangeStatusofCheque.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Cheque.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChequeCancel.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChequeDestroy.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+C:\Users\KYOTO\Desktop\Reconciliation final-29-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.manifest
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.application
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.pdb
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Benificiary.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ChequePrint.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Particulers.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChangeStatusofCheque.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Cheque.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChequeCancel.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChequeDestroy.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe.manifest
+C:\Share\IT\Source Code\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.application
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\bin\Debug\BankReconciliation.exe.config
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.exe
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-31-08-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.pdb
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Benificiary.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ChequePrint.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Particulers.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChangeStatusofCheque.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Cheque.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChequeCancel.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChequeDestroy.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\bin\Debug\Kyoto Bank Reconciliation System.exe.config
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\bin\Debug\Kyoto Bank Reconciliation System.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\bin\Debug\Kyoto Bank Reconciliation System.application
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\bin\Debug\Kyoto Bank Reconciliation System.exe
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\bin\Debug\Kyoto Bank Reconciliation System.pdb
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\Kyoto Bank Reconciliation System.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\Kyoto Bank Reconciliation System.application
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\Kyoto Bank Reconciliation System.exe
+C:\Users\KYOTO\Desktop\New folder (12)\Reconciliation final-29-09-2016\BankReconciliation\BankReconciliation\obj\Debug\Kyoto Bank Reconciliation System.pdb
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\bin\Debug\Kyoto Bank Reconciliation System.exe.config
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\Kyoto Bank Reconciliation System.exe
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\Kyoto Bank Reconciliation System.pdb
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\bin\Debug\Kyoto Bank Reconciliation System.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\bin\Debug\Kyoto Bank Reconciliation System.application
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\bin\Debug\Kyoto Bank Reconciliation System.exe
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\bin\Debug\Kyoto Bank Reconciliation System.pdb
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.LoginForm.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.Registration.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.LoginUI.UserRegistrationForm.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankStatements.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.BankstatementUI.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Benificiary.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ChequePrint.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.Particulers.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.BankDetailsInfo.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChangeStatusofCheque.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Cheque.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChequeCancel.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.ChequeDestroy.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeDiposit.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForDeposit.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.DataGridForWithdraw.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.EditDepositForm2.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.FirstStepDeposit.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.MasterPagesForUser.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestForm.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.TestScopeIdentity.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.UI.Withdraw.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.MainUI.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.ChequeLoader.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\BankReconciliation.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\Kyoto Bank Reconciliation System.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (12)\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\Kyoto Bank Reconciliation System.application
+E:\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\bin\Debug\Kyoto Bank Reconciliation System.exe.config
+E:\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\Kyoto Bank Reconciliation System.exe
+E:\Kyoto Bank Reconciliation System\BankReconciliation\BankReconciliation\obj\Debug\Kyoto Bank Reconciliation System.pdb
