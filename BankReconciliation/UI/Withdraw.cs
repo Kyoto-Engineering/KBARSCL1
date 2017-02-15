@@ -24,11 +24,18 @@ namespace BankReconciliation.UI
         public string fullName, submittedBy,fund;
         public int newRowId;
         public decimal mydecimal2;
+        public string newBenifi;
+        private delegate void ChangeFocusDelegate(Control ctl);
+        public int user_id;
+
         public Withdraw()
         {
             InitializeComponent();
         }
-
+        private void changeFocus(Control ctl)
+        {
+            ctl.Focus();
+        }
         private void Reset()
         {
             cmbChequeNo.SelectedIndexChanged -= cmbChequeNo_SelectedIndexChanged;
@@ -47,7 +54,7 @@ namespace BankReconciliation.UI
             txtWTransactionTypeCombo.SelectedIndexChanged -= txtWTransactionTypeCombo_SelectedIndexChanged;
             txtWTransactionTypeCombo.SelectedIndex = -1;
             txtWTransactionTypeCombo.SelectedIndexChanged += txtWTransactionTypeCombo_SelectedIndexChanged;
-            benificiaryWTextBox.Text = "";
+            benificiaryComboBox.Text = "";
             particularsWTextBox.Text = "";
             eftAccountNoWTextBox.Text = "";
             
@@ -159,13 +166,13 @@ namespace BankReconciliation.UI
                 //auto();
                 con = new SqlConnection(cs.DBConn);
                 con.Open();
-                string cb = "insert into Transactions(BankName,AccountNo,TransactionType,Benificiary,ChequeFromBank,Particulars,CheckNo,Debit,CurrentBalance,TransactionDates,SubmittedBy,Date,FundRNo) VALUES (@bankName,@accountNo,@transactionType,@banificiary,@debitToBank,@particulars,@cheque,@debit,@currentBalance,@d1,@submittedBy,@dt,@fr)" + "SELECT CONVERT(int, SCOPE_IDENTITY());";
+                string cb = "insert into Transactions(BankName,AccountNo,TransactionType,ChequeFromBank,Particulars,CheckNo,Debit,CurrentBalance,TransactionDates,SubmittedBy,Date,FundRNo) VALUES (@bankName,@accountNo,@transactionType,@debitToBank,@particulars,@cheque,@debit,@currentBalance,@d1,@submittedBy,@dt,@fr)" + "SELECT CONVERT(int, SCOPE_IDENTITY());";
                 cmd = new SqlCommand(cb);
                 cmd.Connection = con;
                 cmd.Parameters.AddWithValue("@bankName", txtWBankNameCombo.Text);
                 cmd.Parameters.AddWithValue("@accountNo", cmbAccountNo.Text);
                 cmd.Parameters.AddWithValue("@transactionType", txtWTransactionTypeCombo.Text);
-                cmd.Parameters.AddWithValue("@banificiary", benificiaryWTextBox.Text);
+                //cmd.Parameters.AddWithValue("@banificiary", benificiaryComboBox.Text);
                 cmd.Parameters.AddWithValue("@debitToBank", cmbdebitToBank.Text);
                 cmd.Parameters.AddWithValue("@particulars", particularsWTextBox.Text);
                 cmd.Parameters.AddWithValue("@cheque", cmbChequeNo.Text);
@@ -173,7 +180,7 @@ namespace BankReconciliation.UI
                 cmd.Parameters.AddWithValue("@currentBalance", mydecimal2.ToString());
                 //cmd.Parameters.AddWithValue("@d1", Convert.ToDateTime(transactionWDateTimePicker.Text, System.Globalization.CultureInfo.GetCultureInfo("hi-IN").DateTimeFormat));
                 cmd.Parameters.AddWithValue("@d1", transactionWDateTimePicker.Text);
-                cmd.Parameters.AddWithValue("@submittedBy", fullName);
+                cmd.Parameters.AddWithValue("@submittedBy", submittedBy);
                 cmd.Parameters.AddWithValue("@dt", Convert.ToDateTime(transactionWDateTimePicker.Text,System.Globalization.CultureInfo.GetCultureInfo("hi-IN").DateTimeFormat));
                 cmd.Parameters.AddWithValue("@fr", (object)fund??DBNull.Value);
                 //cmd.ExecuteReader();
@@ -267,9 +274,11 @@ namespace BankReconciliation.UI
         
         private void Withdraw_Load(object sender, EventArgs e)
         {
+            //user_id = LoginForm.uId2.ToString();
             submittedBy = LoginForm.uId2.ToString();
            // FillCombo();
             GetData();
+            benificiaryComboBoxLoad();
         }
 
 
@@ -554,7 +563,7 @@ namespace BankReconciliation.UI
                 eftAccountNoWTextBox.ReadOnly = true;
                 cmbChequeNo.Location=new Point(225, 201);
                 label21.Location=new Point(73, 201);
-                benificiaryWTextBox.Location = new Point(225, 244);
+                benificiaryComboBox.Location = new Point(225, 244);
                 label2.Location=new Point(73, 244);
                 particularsWTextBox.Location=new Point(225, 291);
                 label41.Location=new Point(72, 291);
@@ -578,7 +587,7 @@ namespace BankReconciliation.UI
                 label5.Location = new Point(54, 201);
                 eftAccountNoWTextBox.Location = new Point(225, 244);
                 label3.Location = new Point(21, 244);
-                benificiaryWTextBox.Location = new Point(225, 291);
+                benificiaryComboBox.Location = new Point(225, 291);
                 label2.Location = new Point(73, 291);
                 particularsWTextBox.Location = new Point(225, 344);
                 label41.Location = new Point(72, 344);
@@ -601,13 +610,13 @@ namespace BankReconciliation.UI
                 cmbChequeNo.Items.Clear();
                 cmbdebitToBank.Enabled = false;
                 eftAccountNoWTextBox.ReadOnly = true;
-                benificiaryWTextBox.Location = new Point(225, 201);
+                benificiaryComboBox.Location = new Point(225, 201);
                 label2.Location = new Point(73, 201);
                 particularsWTextBox.Location = new Point(225, 244);
                 label41.Location = new Point(72, 244);
                 creditWTextBox.Location = new Point(225, 291);
                 label51.Location = new Point(54, 291);
-                benificiaryWTextBox.Focus();
+                benificiaryComboBox.Focus();
             }
 
             //if (txtWTransactionTypeCombo.SelectedItem == "EFT(W)")
@@ -628,10 +637,7 @@ namespace BankReconciliation.UI
            
         }
 
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
+        
         private void ReportCheque()
         {
             //creating an object of ParameterField class
@@ -811,7 +817,7 @@ namespace BankReconciliation.UI
         {
             if (e.KeyCode == Keys.Enter)
             {
-                benificiaryWTextBox.Focus();
+                benificiaryComboBox.Focus();
                 e.Handled = true;
             }
         }
@@ -897,6 +903,97 @@ namespace BankReconciliation.UI
         {
             txtWTransactionTypeCombo.Focus();
         }
+
+
+        private void benificiaryComboBoxLoad()
+        {
+            try
+            {
+                con = new SqlConnection(cs.DBConn);
+                con.Open();
+                string ctt = "select Benificiary from BenificiaryInfo";
+                cmd = new SqlCommand(ctt);
+                cmd.Connection = con;
+                rdr = cmd.ExecuteReader();
+                while (rdr.Read())
+                {
+                    benificiaryComboBox.Items.Add(rdr.GetValue(0).ToString());
+                }
+
+                benificiaryComboBox.Items.Add("Not In The List");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+        private void benificiaryComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+            //GetAllEmpByDepartID();
+
+
+            if (benificiaryComboBox.Text == "Not In The List")
+            {
+                newBenifi = Microsoft.VisualBasic.Interaction.InputBox("Please Input department Here", "Input Here", "", -1,
+                    -1);
+                if (string.IsNullOrWhiteSpace(newBenifi))
+                {
+                    benificiaryComboBox.SelectedIndex = -1;
+                }
+                else
+                {
+                    con = new SqlConnection(cs.DBConn);
+                    con.Open();
+                    string ct3 = "select Benificiary from BenificiaryInfo where Benificiary='" + newBenifi + "'";
+                    cmd = new SqlCommand(ct3, con);
+                    rdr = cmd.ExecuteReader();
+                    if (rdr.Read() && !rdr.IsDBNull(0))
+                    {
+                        MessageBox.Show("This Benificiary Name Already Exists,Please Select From List", "Error",
+                            MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        con.Close();
+                        benificiaryComboBox.SelectedIndex = -1;
+                    }
+                    else
+                    {
+                        try
+                        {
+                            con = new SqlConnection(cs.DBConn);
+                            con.Open();
+                            string query = "insert into BenificiaryInfo (Benificiary,DateTime,UserId) values (@d1,@d2,@d3)" +
+                                            "SELECT CONVERT(int, SCOPE_IDENTITY())";
+                            cmd = new SqlCommand(query, con);
+                            cmd.Parameters.AddWithValue("@d1", newBenifi);
+                            cmd.Parameters.AddWithValue("@d2", DateTime.UtcNow.ToLocalTime());
+                            cmd.Parameters.AddWithValue("@d3", submittedBy);
+                            cmd.ExecuteNonQuery();
+                            con.Close();
+                            benificiaryComboBox.Items.Clear();
+                            benificiaryComboBoxLoad();
+                            benificiaryComboBox.SelectedText = newBenifi;
+                            particularsWTextBox.Focus();
+                        }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show(ex.Message, "error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
+                    }
+                }
+            }
+        }
+
+        private void benificiaryComboBox_Leave(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrWhiteSpace(benificiaryComboBox.Text) && !benificiaryComboBox.Items.Contains(benificiaryComboBox.Text))
+            {
+                MessageBox.Show("Please Select A Valid Benificiary Name", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                benificiaryComboBox.ResetText();
+                this.BeginInvoke(new ChangeFocusDelegate(changeFocus), benificiaryComboBox);
+            }
+        }
+
+       
       //  private void transactionWDateTimePicker_ValueChanged(object sender, EventArgs e)
        // {
 //

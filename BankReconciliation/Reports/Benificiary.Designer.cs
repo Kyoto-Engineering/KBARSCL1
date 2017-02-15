@@ -29,19 +29,23 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Benificiary));
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.benifiComboBox = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // comboBox1
+            // benifiComboBox
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(122, 102);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(6);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(627, 32);
-            this.comboBox1.TabIndex = 0;
+            this.benifiComboBox.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.benifiComboBox.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.benifiComboBox.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.benifiComboBox.FormattingEnabled = true;
+            this.benifiComboBox.Location = new System.Drawing.Point(122, 102);
+            this.benifiComboBox.Margin = new System.Windows.Forms.Padding(6);
+            this.benifiComboBox.Name = "benifiComboBox";
+            this.benifiComboBox.Size = new System.Drawing.Size(627, 30);
+            this.benifiComboBox.TabIndex = 0;
+            this.benifiComboBox.Leave += new System.EventHandler(this.benifiComboBox_Leave);
             // 
             // label1
             // 
@@ -71,7 +75,7 @@
             this.ClientSize = new System.Drawing.Size(764, 482);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.benifiComboBox);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(6);
@@ -85,7 +89,7 @@
 
         #endregion
 
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox benifiComboBox;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
     }

@@ -19,25 +19,31 @@ namespace BankReconciliation.Reports
         private SqlCommand cmd;
         ConnectionString cs = new ConnectionString();
         private SqlDataReader rdr;
+        private delegate void ChangeFocusDelegate(Control ctl);
         public Benificiary()
         {
             InitializeComponent();
         }
 
+        private void changeFocus(Control ctl)
+        {
+            ctl.Focus();
+        }
         private void Benificiary_Load(object sender, EventArgs e)
         {
             try
             {
                 con = new SqlConnection(cs.DBConn);
                 con.Open();
-                string ct = "select distinct RTRIM(Transactions.Benificiary) from Transactions  Where Transactions.Debit is not NULL";
+               // string ct = "select distinct RTRIM(Transactions.Benificiary) from Transactions  Where Transactions.Debit is not NULL";
+                string ct = "select Benificiary  from BenificiaryInfo ";
                 cmd = new SqlCommand(ct);
                 cmd.Connection = con;
                 rdr = cmd.ExecuteReader();
 
                 while (rdr.Read())
                 {
-                   comboBox1.Items.Add(rdr[0]);
+                   benifiComboBox.Items.Add(rdr[0]);
                 }
                 con.Close();
 
@@ -64,7 +70,7 @@ namespace BankReconciliation.Reports
             paramField.Name = "Benificiary Name";
 
             //set the parameter value
-            paramDiscreteValue.Value = comboBox1.Text;
+            paramDiscreteValue.Value = benifiComboBox.Text;
 
             //add the parameter value in the ParameterField object
             paramField.CurrentValues.Add(paramDiscreteValue);
@@ -98,5 +104,18 @@ namespace BankReconciliation.Reports
             f2.ShowDialog();
             this.Visible = true;
         }
+
+        private void benifiComboBox_Leave(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrWhiteSpace(benifiComboBox.Text) && !benifiComboBox.Items.Contains(benifiComboBox.Text))
+            {
+                MessageBox.Show("Please Select A Valid Benificiary Name", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                benifiComboBox.ResetText();
+                this.BeginInvoke(new ChangeFocusDelegate(changeFocus), benifiComboBox);
+            }
+        }
+
+        
+        
         }
     }

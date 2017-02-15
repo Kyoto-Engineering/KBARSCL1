@@ -181,7 +181,7 @@ namespace BankReconciliation
                 cmd.Parameters.AddWithValue("@credit", creditTextBox.Text);
                 cmd.Parameters.AddWithValue("@currentBalance", mydecimal.ToString());
                 cmd.Parameters.AddWithValue("@d1", transactionDateTimePicker.Text);
-                cmd.Parameters.AddWithValue("@submittedBy2", fullName2);
+                cmd.Parameters.AddWithValue("@submittedBy2", submittedBy2);
                 cmd.Parameters.AddWithValue("@d2", Convert.ToDateTime(transactionDateTimePicker.Text, System.Globalization.CultureInfo.GetCultureInfo("hi-IN").DateTimeFormat));
                 newRowID = (int)cmd.ExecuteScalar();
                 
