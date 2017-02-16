@@ -167,7 +167,7 @@ namespace BankReconciliation
                 con = new SqlConnection(cs.DBConn);
                 con.Open();
                // string cb = "insert into Transactions(BankName,AccountNo,TransactionType,Benificiary,Particulars,CheckNo,Credit,CurrentBalance,TransactionDates) VALUES ('" + txtBankNameCombo.Text + "','" + cmbAccountDNo.Text + "','" + txtTransactionTypeCombo.Text + "','" + benificiaryTextBox.Text + "','" + particularsTextBox.Text + "','" + checkNoTextBox.Text + "','" + creditTextBox.Text + "','" + txtBalance.Text + "', @d1)";
-                string cb = String.Format("insert into Transactions(BankName,AccountNo,TransactionType,ChequeFromBank,EFTAccountNo,Particulars,CheckNo,Credit,CurrentBalance,TransactionDates,SubmittedBy,Date) VALUES (@bankName,@accountNo,@transactionType,@chequeFromBank,@eftAccountNo,@particulars,@chequeNo,@credit,@currentBalance,@d1,@submittedBy2,@d2)" + "SELECT CONVERT(int, SCOPE_IDENTITY());");
+                string cb = String.Format("insert into Transactions(BankName,AccountNo,TransactionType,ChequeFromBank,EFTAccountNo,Particulars,CheckNo,Credit,CurrentBalance,SubmittedByid,EntryDateTime) VALUES (@bankName,@accountNo,@transactionType,@chequeFromBank,@eftAccountNo,@particulars,@chequeNo,@credit,@currentBalance,@submittedBy2,@entrydatetime)" + "SELECT CONVERT(int, SCOPE_IDENTITY());");
                 cmd = new SqlCommand(cb);
                 cmd.Connection = con;
                 cmd.Parameters.AddWithValue("@bankName", txtBankNameCombo.Text);
@@ -180,9 +180,10 @@ namespace BankReconciliation
                 cmd.Parameters.AddWithValue("@chequeNo", checkNoTextBox.Text);
                 cmd.Parameters.AddWithValue("@credit", creditTextBox.Text);
                 cmd.Parameters.AddWithValue("@currentBalance", mydecimal.ToString());
-                cmd.Parameters.AddWithValue("@d1", transactionDateTimePicker.Text);
+                
                 cmd.Parameters.AddWithValue("@submittedBy2", submittedBy2);
-                cmd.Parameters.AddWithValue("@d2", Convert.ToDateTime(transactionDateTimePicker.Text, System.Globalization.CultureInfo.GetCultureInfo("hi-IN").DateTimeFormat));
+                //cmd.Parameters.AddWithValue("@d2", Convert.ToDateTime(transactionDateTimePicker.Text, System.Globalization.CultureInfo.GetCultureInfo("hi-IN").DateTimeFormat));
+                cmd.Parameters.AddWithValue("@entrydatetime", DateTime.UtcNow.ToLocalTime());
                 newRowID = (int)cmd.ExecuteScalar();
                 
                 con.Close();

@@ -17,6 +17,8 @@ namespace BankReconciliation
         {
 
            // string connectionString = @"Data Source=DESKTOP-TQ74LPH\SQLSERVER2018;Initial Catalog=BankReconciliationDB;User=sa;Password=SystemAdministrator;Persist Security Info=True;";
+            //string connectionString = @"Data Source=tcp:KyotoServer,49172;Initial Catalog=BankReconciliationDB;User=sa;Password=SystemAdministrator;Persist Security Info=True;";
+             //Dumy
             string connectionString = @"Data Source=tcp:KyotoServer,49172;Initial Catalog=BankReconciliationDB;User=sa;Password=SystemAdministrator;Persist Security Info=True;";
          //  string connectionString = @"Data Source=tcp:KyotoServer,49172;Initial Catalog=BankReconciliationDB;User=sa;Password=SystemAdministrator;Persist Security Info=True;";
           

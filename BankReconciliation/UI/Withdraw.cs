@@ -26,7 +26,9 @@ namespace BankReconciliation.UI
         public decimal mydecimal2;
         public string newBenifi;
         private delegate void ChangeFocusDelegate(Control ctl);
-        public int user_id;
+        public int bn_id;
+        //public string status=null;
+        public string eftAccountNo;
 
         public Withdraw()
         {
@@ -90,6 +92,8 @@ namespace BankReconciliation.UI
             }
             try
             {
+                
+
                 if (string.IsNullOrWhiteSpace(textBox2.Text))
                 {
                     fund = null;
@@ -163,26 +167,63 @@ namespace BankReconciliation.UI
                 {
                     fullName = (rdr.GetString(0));
                 }
-                //auto();
+               
+                //Benificial Id Select
+
                 con = new SqlConnection(cs.DBConn);
                 con.Open();
-                string cb = "insert into Transactions(BankName,AccountNo,TransactionType,ChequeFromBank,Particulars,CheckNo,Debit,CurrentBalance,TransactionDates,SubmittedBy,Date,FundRNo) VALUES (@bankName,@accountNo,@transactionType,@debitToBank,@particulars,@cheque,@debit,@currentBalance,@d1,@submittedBy,@dt,@fr)" + "SELECT CONVERT(int, SCOPE_IDENTITY());";
+                cmd = con.CreateCommand();
+
+                cmd.CommandText = "select Bnid from BenificiaryInfo WHERE Benificiary= '" + benificiaryComboBox.Text + "' OR Benificiary='" + newBenifi + "' ";
+
+                rdr = cmd.ExecuteReader();
+                if (rdr.Read())
+                {
+                    bn_id = rdr.GetInt32(0);
+                }
+                if ((rdr != null))
+                {
+                    rdr.Close();
+                }
+                if (con.State == ConnectionState.Open)
+                {
+                    con.Close();
+                }
+
+
+                if (string.IsNullOrWhiteSpace(eftAccountNoWTextBox.Text))
+                {
+                    eftAccountNo = null;
+                }
+                else
+                {
+                    eftAccountNo = eftAccountNoWTextBox.Text;
+                }
+                 //auto();
+                con = new SqlConnection(cs.DBConn);
+                con.Open();
+                string cb = "insert into Transactions(BankName,AccountNo,TransactionType,ChequeFromBank,EFTAccountNo,Particulars,CheckNo,Debit,CurrentBalance,Date,FundRNo,Bnid,SubmittedByid,EntryDateTime) " +
+                            "VALUES (@bankName,@accountNo,@transactionType,@debitToBank,@EftAccountNo,@particulars,@cheque,@debit,@currentBalance,@d1,@fr,@bnid,@submittedById,@entrydatetime)" + "SELECT CONVERT(int, SCOPE_IDENTITY());";
                 cmd = new SqlCommand(cb);
                 cmd.Connection = con;
                 cmd.Parameters.AddWithValue("@bankName", txtWBankNameCombo.Text);
                 cmd.Parameters.AddWithValue("@accountNo", cmbAccountNo.Text);
                 cmd.Parameters.AddWithValue("@transactionType", txtWTransactionTypeCombo.Text);
-                //cmd.Parameters.AddWithValue("@banificiary", benificiaryComboBox.Text);
+                
                 cmd.Parameters.AddWithValue("@debitToBank", cmbdebitToBank.Text);
                 cmd.Parameters.AddWithValue("@particulars", particularsWTextBox.Text);
                 cmd.Parameters.AddWithValue("@cheque", cmbChequeNo.Text);
                 cmd.Parameters.AddWithValue("@debit", creditWTextBox.Text);
                 cmd.Parameters.AddWithValue("@currentBalance", mydecimal2.ToString());
-                //cmd.Parameters.AddWithValue("@d1", Convert.ToDateTime(transactionWDateTimePicker.Text, System.Globalization.CultureInfo.GetCultureInfo("hi-IN").DateTimeFormat));
-                cmd.Parameters.AddWithValue("@d1", transactionWDateTimePicker.Text);
-                cmd.Parameters.AddWithValue("@submittedBy", submittedBy);
-                cmd.Parameters.AddWithValue("@dt", Convert.ToDateTime(transactionWDateTimePicker.Text,System.Globalization.CultureInfo.GetCultureInfo("hi-IN").DateTimeFormat));
-                cmd.Parameters.AddWithValue("@fr", (object)fund??DBNull.Value);
+                cmd.Parameters.AddWithValue("@d1", Convert.ToDateTime(transactionWDateTimePicker.Value, System.Globalization.CultureInfo.GetCultureInfo("hi-IN").DateTimeFormat));
+                
+                cmd.Parameters.AddWithValue("@submittedById", submittedBy);
+                
+                cmd.Parameters.AddWithValue("@entrydatetime", DateTime.UtcNow.ToLocalTime());
+                cmd.Parameters.AddWithValue("@fr", (object)fund ?? DBNull.Value);
+                cmd.Parameters.AddWithValue("@bnid", bn_id);
+                cmd.Parameters.AddWithValue("@EftAccountNo", (object)eftAccountNo ?? DBNull.Value);
+
                 //cmd.ExecuteReader();
                 newRowId = (int)cmd.ExecuteScalar();
                 con.Close();
