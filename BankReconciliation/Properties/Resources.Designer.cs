@@ -63,26 +63,6 @@ namespace BankReconciliation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Bank_Recounciliation {
-            get {
-                object obj = ResourceManager.GetObject("Bank Recounciliation", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Bank_Recounciliation1 {
-            get {
-                object obj = ResourceManager.GetObject("Bank Recounciliation1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap id_login_form {
             get {
                 object obj = ResourceManager.GetObject("id-login-form", resourceCulture);
