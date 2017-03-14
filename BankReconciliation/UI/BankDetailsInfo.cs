@@ -231,5 +231,19 @@ namespace BankReconciliation.UI
                 createButton_Click(this, new EventArgs());
             }
         }
+
+        private void initialBalanceTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            char ch = e.KeyChar;
+            decimal x;
+            if (ch == (char)Keys.Back)
+            {
+                e.Handled = false;
+            }
+            else if (!char.IsDigit(ch) && ch != '.' || !Decimal.TryParse(initialBalanceTextBox.Text + ch, out x))
+            {
+                e.Handled = true;
+            }
+        }
     }
 }

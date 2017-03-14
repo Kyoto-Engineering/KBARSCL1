@@ -213,6 +213,7 @@
             this.initialBalanceTextBox.Size = new System.Drawing.Size(235, 29);
             this.initialBalanceTextBox.TabIndex = 7;
             this.initialBalanceTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.initialBalanceTextBox_KeyDown);
+            this.initialBalanceTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.initialBalanceTextBox_KeyPress);
             // 
             // label4
             // 

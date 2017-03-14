@@ -18,7 +18,7 @@ namespace BankReconciliation
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-           // Application.Run(new MainUI());
+            //Application.Run(new MainUI());
             Application.Run(new LoginForm());
            // Application.Run(new UserRegistrationForm());
            // Application.Run(new EditDepositForm());
